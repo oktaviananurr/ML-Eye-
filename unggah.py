@@ -46,7 +46,7 @@ menu = st.sidebar.selectbox("Navigasi", ["Home", "Deteksi"])
 if menu == "Home":
     col1, col2 = st.columns([1, 8])
     with col1:
-        st.image("neweyescan.png", width=200)  # Pastikan file ini ada di folder yang sama
+        st.image("neweyescan.png", width=300)  # Pastikan file ini ada di folder yang sama
     with col2:
         st.markdown("# **EyeScan**")
 
@@ -163,7 +163,7 @@ def run_detection_logic(file):
 #st.header("Deteksi Penyakit Mata Menggunakan YOLOv8")
 col1, col2 = st.columns([1, 8])
 with col1:
-    st.image("neweyescan.png", width=200)  # Pastikan file ini ada di folder yang sama
+    st.image("neweyescan.png", width=300)  # Pastikan file ini ada di folder yang sama
 with col2:
     st.markdown("# **EyeScan: Deteksi Penyakit Mata Menggunakan YOLOv8**")
 
