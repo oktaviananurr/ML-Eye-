@@ -1,0 +1,57 @@
+[
+  {
+    "index": 0,
+    "label": "Bulging_Eyes",
+    "name": "Bulging Eyes (Proptosis)",
+    "instructions": [
+      "Segera periksakan diri ke dokter mata untuk mencari penyebab (misalnya: infeksi, tumor, atau gangguan tiroid).",
+      "Gunakan obat tetes mata lubrikasi untuk mencegah mata kering akibat paparan berlebih.",
+      "Jika disebabkan oleh penyakit Graves, terapi hormon tiroid mungkin dibutuhkan.",
+      "Hindari menggosok mata dan lindungi dari debu serta cahaya berlebih."
+    ]
+  },
+  {
+    "index": 1,
+    "label": "Cataracts",
+    "name": "Katarak",
+    "instructions": [
+      "Gunakan kacamata atau lensa pembesar untuk membantu penglihatan sementara.",
+      "Konsultasikan dengan dokter mata untuk menentukan waktu yang tepat menjalani operasi katarak.",
+      "Hindari menyetir atau aktivitas berisiko jika penglihatan buram.",
+      "Lindungi mata dari sinar UV dengan kacamata hitam saat di luar ruangan."
+    ]
+  },
+  {
+    "index": 2,
+    "label": "Crossed_Eyes",
+    "name": "Strabismus (Crossed Eyes)",
+    "instructions": [
+      "Lakukan pemeriksaan mata lengkap dengan dokter spesialis mata.",
+      "Terapi penglihatan (vision therapy) atau latihan mata mungkin direkomendasikan.",
+      "Gunakan kacamata khusus atau penutup mata (eye patch) jika disarankan.",
+      "Dalam beberapa kasus, tindakan pembedahan pada otot mata mungkin diperlukan."
+    ]
+  },
+  {
+    "index": 3,
+    "label": "Glaucoma",
+    "name": "Glaukoma",
+    "instructions": [
+      "Gunakan obat tetes mata penurun tekanan sesuai resep dokter secara teratur.",
+      "Lakukan kontrol tekanan bola mata secara berkala di dokter spesialis mata.",
+      "Jangan melewatkan jadwal konsumsi obat atau kunjungan kontrol.",
+      "Segera laporkan gejala seperti nyeri mata hebat atau penglihatan kabur mendadak."
+    ]
+  },
+  {
+    "index": 4,
+    "label": "Uveitis",
+    "name": "Uveitis",
+    "instructions": [
+      "Gunakan obat tetes mata kortikosteroid sesuai anjuran dokter.",
+      "Minum obat sistemik (seperti imunosupresan) jika diresepkan untuk kasus berat.",
+      "Hindari paparan cahaya terang — gunakan kacamata hitam saat keluar rumah.",
+      "Segera periksakan ke dokter jika muncul nyeri, mata merah, atau penglihatan terganggu."
+    ]
+  }
+]

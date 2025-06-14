@@ -1,0 +1,16 @@
+names:
+- Bulging_Eyes
+- Cataracts
+- Crossed_Eyes
+- Glaucoma
+- Uveitis
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: eye_diseases_detect
+  url: https://universe.roboflow.com/hifivetech/eye_diseases_detect/dataset/1
+  version: 1
+  workspace: hifivetech
+test: ../test/images
+train: ../train/images
+val: ../valid/images

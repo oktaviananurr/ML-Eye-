@@ -1,0 +1,15 @@
+names:
+- Dry
+- Normal
+- Oily
+- Sensitif
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: skin_type-vtn2q
+  url: https://universe.roboflow.com/skin-type-jtczu/skin_type-vtn2q/dataset/5
+  version: 5
+  workspace: skin-type-jtczu
+test: Skin_Type-5/test/images
+train: Skin_Type-5/train/images
+val: Skin_Type-5/valid/images
