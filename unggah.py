@@ -39,7 +39,9 @@ st.markdown("""
 from PIL import Image
 
 # === SIDEBAR MENU ===
+st.sidebar.markdown("## 📋 Menu")
 menu = st.sidebar.selectbox("Navigasi", ["Home", "Deteksi"])
+
 
 if menu == "Home":
     st.title("🧿 Edukasi Penyakit Mata")
