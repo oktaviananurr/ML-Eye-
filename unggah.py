@@ -44,7 +44,14 @@ menu = st.sidebar.selectbox("Navigasi", ["Home", "Deteksi"])
 
 
 if menu == "Home":
-    st.title("🧿 Edukasi Penyakit Mata")
+    st.title("🧿 EyeScan")
+    col1, col2 = st.columns([1, 8])
+    with col1:
+        st.image("Eyescan.jpg", width=50)  # Pastikan file ini ada di folder yang sama
+    with col2:
+        st.markdown("## EyeScan")
+
+
     st.markdown("Berikut adalah beberapa jenis penyakit mata yang dapat terdeteksi oleh sistem ini:")
 
     penyakit_info = {
