@@ -46,3 +46,4 @@ model.train(
 
 # Load model jika ingin digunakan lagi:
 # model = YOLO("runs/train/YOLOv8_KULIT/weights/best.pt")
+  
